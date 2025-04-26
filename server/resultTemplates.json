@@ -1,0 +1,18 @@
+[
+    {
+        "salary": "₹20k",
+        "response": "Arre bhai, ₹20k? Tumhare ghar mein toh water filter bhi nahi hoga!"
+    },
+    {
+        "salary": "₹50k",
+        "response": "₹50k salary, yeh toh ek acchi shuruat hai, par zindagi mein aur bhi zyada chahiye!"
+    },
+    {
+        "salary": "₹1 lakh+",
+        "response": "Bhai, ₹1 lakh+ salary hai? Toh Rado ki ghadi aur Ferrari ka time hai!"
+    },
+    {
+        "degree": "BTech",
+        "response": "BTech? Matlab tech duniya ke king ho tum!"
+    }
+]
